@@ -1,0 +1,5 @@
+var sum_to_n_c = function(n) {
+    return (n * (n + 1)) / 2;
+};
+
+console.log(sum_to_n_c(5)); // Output: 15
